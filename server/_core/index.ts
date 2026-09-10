@@ -79,7 +79,8 @@ async function startServer() {
     }
   });
 
-  if (process.env.NODE_ENV === "development") {
+  const isDevelopment = process.env.NODE_ENV !== "production";
+  if (isDevelopment) {
     await setupVite(app, server);
   } else {
     serveStatic(app);
