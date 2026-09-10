@@ -1,0 +1,1802 @@
+[
+  {
+    "id": "01-01",
+    "template_name": "Drake Hotline Bling",
+    "humor_style": "preference contrast",
+    "when_to_use": [
+      "choosing between two options",
+      "rejecting boring work for a fun distraction",
+      "the assignment portal",
+      "campus life",
+      "faculty-safe"
+    ],
+    "example_captions": [
+      "opened the submission page. the deadline was actually tonight.",
+      "Me: opened the submission page. Also me when I see the assignment portal: immediately invested.",
+      "Nobody: absolutely nobody. Me when the deadline was actually tonight:"
+    ],
+    "tone": "confident and playful"
+  },
+  {
+    "id": "01-02",
+    "template_name": "Drake Hotline Bling",
+    "humor_style": "preference contrast",
+    "when_to_use": [
+      "choosing between two options",
+      "rejecting boring work for a fun distraction",
+      "the last slice of pizza",
+      "campus life",
+      "faculty-safe"
+    ],
+    "example_captions": [
+      "said I was not hungry. heard someone say ‘free food’.",
+      "Me: said I was not hungry. Also me when I see the last slice of pizza: immediately invested.",
+      "Nobody: absolutely nobody. Me when heard someone say ‘free food’:"
+    ],
+    "tone": "confident and playful"
+  },
+  {
+    "id": "01-03",
+    "template_name": "Drake Hotline Bling",
+    "humor_style": "preference contrast",
+    "when_to_use": [
+      "choosing between two options",
+      "rejecting boring work for a fun distraction",
+      "the Wi-Fi symbol",
+      "campus life",
+      "faculty-safe"
+    ],
+    "example_captions": [
+      "planned a focused study session. the lecture video finally loaded.",
+      "Me: planned a focused study session. Also me when I see the Wi-Fi symbol: immediately invested.",
+      "Nobody: absolutely nobody. Me when the lecture video finally loaded:"
+    ],
+    "tone": "confident and playful"
+  },
+  {
+    "id": "01-04",
+    "template_name": "Drake Hotline Bling",
+    "humor_style": "preference contrast",
+    "when_to_use": [
+      "choosing between two options",
+      "rejecting boring work for a fun distraction",
+      "the presentation clicker",
+      "campus life",
+      "faculty-safe"
+    ],
+    "example_captions": [
+      "practiced the first slide. the faculty panel said ‘any questions?’.",
+      "Me: practiced the first slide. Also me when I see the presentation clicker: immediately invested.",
+      "Nobody: absolutely nobody. Me when the faculty panel said ‘any questions?’:"
+    ],
+    "tone": "confident and playful"
+  },
+  {
+    "id": "01-05",
+    "template_name": "Drake Hotline Bling",
+    "humor_style": "preference contrast",
+    "when_to_use": [
+      "choosing between two options",
+      "rejecting boring work for a fun distraction",
+      "attendance",
+      "campus life",
+      "faculty-safe"
+    ],
+    "example_captions": [
+      "arrived early for once. the professor started counting.",
+      "Me: arrived early for once. Also me when I see attendance: immediately invested.",
+      "Nobody: absolutely nobody. Me when the professor started counting:"
+    ],
+    "tone": "confident and playful"
+  },
+  {
+    "id": "02-01",
+    "template_name": "Distracted Boyfriend",
+    "humor_style": "temptation and distraction",
+    "when_to_use": [
+      "someone looking away from a task",
+      "new object competing with responsibility",
+      "the last slice of pizza",
+      "campus life",
+      "faculty-safe"
+    ],
+    "example_captions": [
+      "said I was not hungry. heard someone say ‘free food’.",
+      "Me: said I was not hungry. Also me when I see the last slice of pizza: immediately invested.",
+      "Nobody: absolutely nobody. Me when heard someone say ‘free food’:"
+    ],
+    "tone": "relatable and teasing"
+  },
+  {
+    "id": "02-02",
+    "template_name": "Distracted Boyfriend",
+    "humor_style": "temptation and distraction",
+    "when_to_use": [
+      "someone looking away from a task",
+      "new object competing with responsibility",
+      "the Wi-Fi symbol",
+      "campus life",
+      "faculty-safe"
+    ],
+    "example_captions": [
+      "planned a focused study session. the lecture video finally loaded.",
+      "Me: planned a focused study session. Also me when I see the Wi-Fi symbol: immediately invested.",
+      "Nobody: absolutely nobody. Me when the lecture video finally loaded:"
+    ],
+    "tone": "relatable and teasing"
+  },
+  {
+    "id": "02-03",
+    "template_name": "Distracted Boyfriend",
+    "humor_style": "temptation and distraction",
+    "when_to_use": [
+      "someone looking away from a task",
+      "new object competing with responsibility",
+      "the presentation clicker",
+      "campus life",
+      "faculty-safe"
+    ],
+    "example_captions": [
+      "practiced the first slide. the faculty panel said ‘any questions?’.",
+      "Me: practiced the first slide. Also me when I see the presentation clicker: immediately invested.",
+      "Nobody: absolutely nobody. Me when the faculty panel said ‘any questions?’:"
+    ],
+    "tone": "relatable and teasing"
+  },
+  {
+    "id": "02-04",
+    "template_name": "Distracted Boyfriend",
+    "humor_style": "temptation and distraction",
+    "when_to_use": [
+      "someone looking away from a task",
+      "new object competing with responsibility",
+      "attendance",
+      "campus life",
+      "faculty-safe"
+    ],
+    "example_captions": [
+      "arrived early for once. the professor started counting.",
+      "Me: arrived early for once. Also me when I see attendance: immediately invested.",
+      "Nobody: absolutely nobody. Me when the professor started counting:"
+    ],
+    "tone": "relatable and teasing"
+  },
+  {
+    "id": "02-05",
+    "template_name": "Distracted Boyfriend",
+    "humor_style": "temptation and distraction",
+    "when_to_use": [
+      "someone looking away from a task",
+      "new object competing with responsibility",
+      "the assignment portal",
+      "campus life",
+      "faculty-safe"
+    ],
+    "example_captions": [
+      "opened the submission page. the deadline was actually tonight.",
+      "Me: opened the submission page. Also me when I see the assignment portal: immediately invested.",
+      "Nobody: absolutely nobody. Me when the deadline was actually tonight:"
+    ],
+    "tone": "relatable and teasing"
+  },
+  {
+    "id": "03-01",
+    "template_name": "This Is Fine",
+    "humor_style": "ironic understatement",
+    "when_to_use": [
+      "messy room or stressful scene",
+      "calm face during chaos",
+      "the Wi-Fi symbol",
+      "campus life",
+      "faculty-safe"
+    ],
+    "example_captions": [
+      "planned a focused study session. the lecture video finally loaded.",
+      "Me: planned a focused study session. Also me when I see the Wi-Fi symbol: immediately invested.",
+      "Nobody: absolutely nobody. Me when the lecture video finally loaded:"
+    ],
+    "tone": "dry and deadpan"
+  },
+  {
+    "id": "03-02",
+    "template_name": "This Is Fine",
+    "humor_style": "ironic understatement",
+    "when_to_use": [
+      "messy room or stressful scene",
+      "calm face during chaos",
+      "the presentation clicker",
+      "campus life",
+      "faculty-safe"
+    ],
+    "example_captions": [
+      "practiced the first slide. the faculty panel said ‘any questions?’.",
+      "Me: practiced the first slide. Also me when I see the presentation clicker: immediately invested.",
+      "Nobody: absolutely nobody. Me when the faculty panel said ‘any questions?’:"
+    ],
+    "tone": "dry and deadpan"
+  },
+  {
+    "id": "03-03",
+    "template_name": "This Is Fine",
+    "humor_style": "ironic understatement",
+    "when_to_use": [
+      "messy room or stressful scene",
+      "calm face during chaos",
+      "attendance",
+      "campus life",
+      "faculty-safe"
+    ],
+    "example_captions": [
+      "arrived early for once. the professor started counting.",
+      "Me: arrived early for once. Also me when I see attendance: immediately invested.",
+      "Nobody: absolutely nobody. Me when the professor started counting:"
+    ],
+    "tone": "dry and deadpan"
+  },
+  {
+    "id": "03-04",
+    "template_name": "This Is Fine",
+    "humor_style": "ironic understatement",
+    "when_to_use": [
+      "messy room or stressful scene",
+      "calm face during chaos",
+      "the assignment portal",
+      "campus life",
+      "faculty-safe"
+    ],
+    "example_captions": [
+      "opened the submission page. the deadline was actually tonight.",
+      "Me: opened the submission page. Also me when I see the assignment portal: immediately invested.",
+      "Nobody: absolutely nobody. Me when the deadline was actually tonight:"
+    ],
+    "tone": "dry and deadpan"
+  },
+  {
+    "id": "03-05",
+    "template_name": "This Is Fine",
+    "humor_style": "ironic understatement",
+    "when_to_use": [
+      "messy room or stressful scene",
+      "calm face during chaos",
+      "the last slice of pizza",
+      "campus life",
+      "faculty-safe"
+    ],
+    "example_captions": [
+      "said I was not hungry. heard someone say ‘free food’.",
+      "Me: said I was not hungry. Also me when I see the last slice of pizza: immediately invested.",
+      "Nobody: absolutely nobody. Me when heard someone say ‘free food’:"
+    ],
+    "tone": "dry and deadpan"
+  },
+  {
+    "id": "04-01",
+    "template_name": "Expanding Brain",
+    "humor_style": "escalating intelligence",
+    "when_to_use": [
+      "a simple idea becoming overcomplicated",
+      "creative upgrade or clever hack",
+      "the presentation clicker",
+      "campus life",
+      "faculty-safe"
+    ],
+    "example_captions": [
+      "practiced the first slide. the faculty panel said ‘any questions?’.",
+      "Me: practiced the first slide. Also me when I see the presentation clicker: immediately invested.",
+      "Nobody: absolutely nobody. Me when the faculty panel said ‘any questions?’:"
+    ],
+    "tone": "clever and escalating"
+  },
+  {
+    "id": "04-02",
+    "template_name": "Expanding Brain",
+    "humor_style": "escalating intelligence",
+    "when_to_use": [
+      "a simple idea becoming overcomplicated",
+      "creative upgrade or clever hack",
+      "attendance",
+      "campus life",
+      "faculty-safe"
+    ],
+    "example_captions": [
+      "arrived early for once. the professor started counting.",
+      "Me: arrived early for once. Also me when I see attendance: immediately invested.",
+      "Nobody: absolutely nobody. Me when the professor started counting:"
+    ],
+    "tone": "clever and escalating"
+  },
+  {
+    "id": "04-03",
+    "template_name": "Expanding Brain",
+    "humor_style": "escalating intelligence",
+    "when_to_use": [
+      "a simple idea becoming overcomplicated",
+      "creative upgrade or clever hack",
+      "the assignment portal",
+      "campus life",
+      "faculty-safe"
+    ],
+    "example_captions": [
+      "opened the submission page. the deadline was actually tonight.",
+      "Me: opened the submission page. Also me when I see the assignment portal: immediately invested.",
+      "Nobody: absolutely nobody. Me when the deadline was actually tonight:"
+    ],
+    "tone": "clever and escalating"
+  },
+  {
+    "id": "04-04",
+    "template_name": "Expanding Brain",
+    "humor_style": "escalating intelligence",
+    "when_to_use": [
+      "a simple idea becoming overcomplicated",
+      "creative upgrade or clever hack",
+      "the last slice of pizza",
+      "campus life",
+      "faculty-safe"
+    ],
+    "example_captions": [
+      "said I was not hungry. heard someone say ‘free food’.",
+      "Me: said I was not hungry. Also me when I see the last slice of pizza: immediately invested.",
+      "Nobody: absolutely nobody. Me when heard someone say ‘free food’:"
+    ],
+    "tone": "clever and escalating"
+  },
+  {
+    "id": "04-05",
+    "template_name": "Expanding Brain",
+    "humor_style": "escalating intelligence",
+    "when_to_use": [
+      "a simple idea becoming overcomplicated",
+      "creative upgrade or clever hack",
+      "the Wi-Fi symbol",
+      "campus life",
+      "faculty-safe"
+    ],
+    "example_captions": [
+      "planned a focused study session. the lecture video finally loaded.",
+      "Me: planned a focused study session. Also me when I see the Wi-Fi symbol: immediately invested.",
+      "Nobody: absolutely nobody. Me when the lecture video finally loaded:"
+    ],
+    "tone": "clever and escalating"
+  },
+  {
+    "id": "05-01",
+    "template_name": "Woman Yelling at Cat",
+    "humor_style": "miscommunication",
+    "when_to_use": [
+      "two subjects reacting differently",
+      "argument versus confused calm",
+      "attendance",
+      "campus life",
+      "faculty-safe"
+    ],
+    "example_captions": [
+      "arrived early for once. the professor started counting.",
+      "Me: arrived early for once. Also me when I see attendance: immediately invested.",
+      "Nobody: absolutely nobody. Me when the professor started counting:"
+    ],
+    "tone": "expressive and dramatic"
+  },
+  {
+    "id": "05-02",
+    "template_name": "Woman Yelling at Cat",
+    "humor_style": "miscommunication",
+    "when_to_use": [
+      "two subjects reacting differently",
+      "argument versus confused calm",
+      "the assignment portal",
+      "campus life",
+      "faculty-safe"
+    ],
+    "example_captions": [
+      "opened the submission page. the deadline was actually tonight.",
+      "Me: opened the submission page. Also me when I see the assignment portal: immediately invested.",
+      "Nobody: absolutely nobody. Me when the deadline was actually tonight:"
+    ],
+    "tone": "expressive and dramatic"
+  },
+  {
+    "id": "05-03",
+    "template_name": "Woman Yelling at Cat",
+    "humor_style": "miscommunication",
+    "when_to_use": [
+      "two subjects reacting differently",
+      "argument versus confused calm",
+      "the last slice of pizza",
+      "campus life",
+      "faculty-safe"
+    ],
+    "example_captions": [
+      "said I was not hungry. heard someone say ‘free food’.",
+      "Me: said I was not hungry. Also me when I see the last slice of pizza: immediately invested.",
+      "Nobody: absolutely nobody. Me when heard someone say ‘free food’:"
+    ],
+    "tone": "expressive and dramatic"
+  },
+  {
+    "id": "05-04",
+    "template_name": "Woman Yelling at Cat",
+    "humor_style": "miscommunication",
+    "when_to_use": [
+      "two subjects reacting differently",
+      "argument versus confused calm",
+      "the Wi-Fi symbol",
+      "campus life",
+      "faculty-safe"
+    ],
+    "example_captions": [
+      "planned a focused study session. the lecture video finally loaded.",
+      "Me: planned a focused study session. Also me when I see the Wi-Fi symbol: immediately invested.",
+      "Nobody: absolutely nobody. Me when the lecture video finally loaded:"
+    ],
+    "tone": "expressive and dramatic"
+  },
+  {
+    "id": "05-05",
+    "template_name": "Woman Yelling at Cat",
+    "humor_style": "miscommunication",
+    "when_to_use": [
+      "two subjects reacting differently",
+      "argument versus confused calm",
+      "the presentation clicker",
+      "campus life",
+      "faculty-safe"
+    ],
+    "example_captions": [
+      "practiced the first slide. the faculty panel said ‘any questions?’.",
+      "Me: practiced the first slide. Also me when I see the presentation clicker: immediately invested.",
+      "Nobody: absolutely nobody. Me when the faculty panel said ‘any questions?’:"
+    ],
+    "tone": "expressive and dramatic"
+  },
+  {
+    "id": "06-01",
+    "template_name": "Success Kid",
+    "humor_style": "small victory",
+    "when_to_use": [
+      "celebrating a tiny win",
+      "completed task or lucky moment",
+      "the assignment portal",
+      "campus life",
+      "faculty-safe"
+    ],
+    "example_captions": [
+      "opened the submission page. the deadline was actually tonight.",
+      "Me: opened the submission page. Also me when I see the assignment portal: immediately invested.",
+      "Nobody: absolutely nobody. Me when the deadline was actually tonight:"
+    ],
+    "tone": "triumphant and wholesome"
+  },
+  {
+    "id": "06-02",
+    "template_name": "Success Kid",
+    "humor_style": "small victory",
+    "when_to_use": [
+      "celebrating a tiny win",
+      "completed task or lucky moment",
+      "the last slice of pizza",
+      "campus life",
+      "faculty-safe"
+    ],
+    "example_captions": [
+      "said I was not hungry. heard someone say ‘free food’.",
+      "Me: said I was not hungry. Also me when I see the last slice of pizza: immediately invested.",
+      "Nobody: absolutely nobody. Me when heard someone say ‘free food’:"
+    ],
+    "tone": "triumphant and wholesome"
+  },
+  {
+    "id": "06-03",
+    "template_name": "Success Kid",
+    "humor_style": "small victory",
+    "when_to_use": [
+      "celebrating a tiny win",
+      "completed task or lucky moment",
+      "the Wi-Fi symbol",
+      "campus life",
+      "faculty-safe"
+    ],
+    "example_captions": [
+      "planned a focused study session. the lecture video finally loaded.",
+      "Me: planned a focused study session. Also me when I see the Wi-Fi symbol: immediately invested.",
+      "Nobody: absolutely nobody. Me when the lecture video finally loaded:"
+    ],
+    "tone": "triumphant and wholesome"
+  },
+  {
+    "id": "06-04",
+    "template_name": "Success Kid",
+    "humor_style": "small victory",
+    "when_to_use": [
+      "celebrating a tiny win",
+      "completed task or lucky moment",
+      "the presentation clicker",
+      "campus life",
+      "faculty-safe"
+    ],
+    "example_captions": [
+      "practiced the first slide. the faculty panel said ‘any questions?’.",
+      "Me: practiced the first slide. Also me when I see the presentation clicker: immediately invested.",
+      "Nobody: absolutely nobody. Me when the faculty panel said ‘any questions?’:"
+    ],
+    "tone": "triumphant and wholesome"
+  },
+  {
+    "id": "06-05",
+    "template_name": "Success Kid",
+    "humor_style": "small victory",
+    "when_to_use": [
+      "celebrating a tiny win",
+      "completed task or lucky moment",
+      "attendance",
+      "campus life",
+      "faculty-safe"
+    ],
+    "example_captions": [
+      "arrived early for once. the professor started counting.",
+      "Me: arrived early for once. Also me when I see attendance: immediately invested.",
+      "Nobody: absolutely nobody. Me when the professor started counting:"
+    ],
+    "tone": "triumphant and wholesome"
+  },
+  {
+    "id": "07-01",
+    "template_name": "Change My Mind",
+    "humor_style": "bold hot take",
+    "when_to_use": [
+      "person seated confidently",
+      "opinion or campus debate",
+      "the last slice of pizza",
+      "campus life",
+      "faculty-safe"
+    ],
+    "example_captions": [
+      "said I was not hungry. heard someone say ‘free food’.",
+      "Me: said I was not hungry. Also me when I see the last slice of pizza: immediately invested.",
+      "Nobody: absolutely nobody. Me when heard someone say ‘free food’:"
+    ],
+    "tone": "provocative but friendly"
+  },
+  {
+    "id": "07-02",
+    "template_name": "Change My Mind",
+    "humor_style": "bold hot take",
+    "when_to_use": [
+      "person seated confidently",
+      "opinion or campus debate",
+      "the Wi-Fi symbol",
+      "campus life",
+      "faculty-safe"
+    ],
+    "example_captions": [
+      "planned a focused study session. the lecture video finally loaded.",
+      "Me: planned a focused study session. Also me when I see the Wi-Fi symbol: immediately invested.",
+      "Nobody: absolutely nobody. Me when the lecture video finally loaded:"
+    ],
+    "tone": "provocative but friendly"
+  },
+  {
+    "id": "07-03",
+    "template_name": "Change My Mind",
+    "humor_style": "bold hot take",
+    "when_to_use": [
+      "person seated confidently",
+      "opinion or campus debate",
+      "the presentation clicker",
+      "campus life",
+      "faculty-safe"
+    ],
+    "example_captions": [
+      "practiced the first slide. the faculty panel said ‘any questions?’.",
+      "Me: practiced the first slide. Also me when I see the presentation clicker: immediately invested.",
+      "Nobody: absolutely nobody. Me when the faculty panel said ‘any questions?’:"
+    ],
+    "tone": "provocative but friendly"
+  },
+  {
+    "id": "07-04",
+    "template_name": "Change My Mind",
+    "humor_style": "bold hot take",
+    "when_to_use": [
+      "person seated confidently",
+      "opinion or campus debate",
+      "attendance",
+      "campus life",
+      "faculty-safe"
+    ],
+    "example_captions": [
+      "arrived early for once. the professor started counting.",
+      "Me: arrived early for once. Also me when I see attendance: immediately invested.",
+      "Nobody: absolutely nobody. Me when the professor started counting:"
+    ],
+    "tone": "provocative but friendly"
+  },
+  {
+    "id": "07-05",
+    "template_name": "Change My Mind",
+    "humor_style": "bold hot take",
+    "when_to_use": [
+      "person seated confidently",
+      "opinion or campus debate",
+      "the assignment portal",
+      "campus life",
+      "faculty-safe"
+    ],
+    "example_captions": [
+      "opened the submission page. the deadline was actually tonight.",
+      "Me: opened the submission page. Also me when I see the assignment portal: immediately invested.",
+      "Nobody: absolutely nobody. Me when the deadline was actually tonight:"
+    ],
+    "tone": "provocative but friendly"
+  },
+  {
+    "id": "08-01",
+    "template_name": "Two Buttons",
+    "humor_style": "impossible choice",
+    "when_to_use": [
+      "person deciding between two stressful options",
+      "deadline or exam dilemma",
+      "the Wi-Fi symbol",
+      "campus life",
+      "faculty-safe"
+    ],
+    "example_captions": [
+      "planned a focused study session. the lecture video finally loaded.",
+      "Me: planned a focused study session. Also me when I see the Wi-Fi symbol: immediately invested.",
+      "Nobody: absolutely nobody. Me when the lecture video finally loaded:"
+    ],
+    "tone": "anxious and relatable"
+  },
+  {
+    "id": "08-02",
+    "template_name": "Two Buttons",
+    "humor_style": "impossible choice",
+    "when_to_use": [
+      "person deciding between two stressful options",
+      "deadline or exam dilemma",
+      "the presentation clicker",
+      "campus life",
+      "faculty-safe"
+    ],
+    "example_captions": [
+      "practiced the first slide. the faculty panel said ‘any questions?’.",
+      "Me: practiced the first slide. Also me when I see the presentation clicker: immediately invested.",
+      "Nobody: absolutely nobody. Me when the faculty panel said ‘any questions?’:"
+    ],
+    "tone": "anxious and relatable"
+  },
+  {
+    "id": "08-03",
+    "template_name": "Two Buttons",
+    "humor_style": "impossible choice",
+    "when_to_use": [
+      "person deciding between two stressful options",
+      "deadline or exam dilemma",
+      "attendance",
+      "campus life",
+      "faculty-safe"
+    ],
+    "example_captions": [
+      "arrived early for once. the professor started counting.",
+      "Me: arrived early for once. Also me when I see attendance: immediately invested.",
+      "Nobody: absolutely nobody. Me when the professor started counting:"
+    ],
+    "tone": "anxious and relatable"
+  },
+  {
+    "id": "08-04",
+    "template_name": "Two Buttons",
+    "humor_style": "impossible choice",
+    "when_to_use": [
+      "person deciding between two stressful options",
+      "deadline or exam dilemma",
+      "the assignment portal",
+      "campus life",
+      "faculty-safe"
+    ],
+    "example_captions": [
+      "opened the submission page. the deadline was actually tonight.",
+      "Me: opened the submission page. Also me when I see the assignment portal: immediately invested.",
+      "Nobody: absolutely nobody. Me when the deadline was actually tonight:"
+    ],
+    "tone": "anxious and relatable"
+  },
+  {
+    "id": "08-05",
+    "template_name": "Two Buttons",
+    "humor_style": "impossible choice",
+    "when_to_use": [
+      "person deciding between two stressful options",
+      "deadline or exam dilemma",
+      "the last slice of pizza",
+      "campus life",
+      "faculty-safe"
+    ],
+    "example_captions": [
+      "said I was not hungry. heard someone say ‘free food’.",
+      "Me: said I was not hungry. Also me when I see the last slice of pizza: immediately invested.",
+      "Nobody: absolutely nobody. Me when heard someone say ‘free food’:"
+    ],
+    "tone": "anxious and relatable"
+  },
+  {
+    "id": "09-01",
+    "template_name": "One Does Not Simply",
+    "humor_style": "difficulty warning",
+    "when_to_use": [
+      "someone attempting a difficult task",
+      "last-minute studying or setup",
+      "the presentation clicker",
+      "campus life",
+      "faculty-safe"
+    ],
+    "example_captions": [
+      "practiced the first slide. the faculty panel said ‘any questions?’.",
+      "Me: practiced the first slide. Also me when I see the presentation clicker: immediately invested.",
+      "Nobody: absolutely nobody. Me when the faculty panel said ‘any questions?’:"
+    ],
+    "tone": "dramatic and knowing"
+  },
+  {
+    "id": "09-02",
+    "template_name": "One Does Not Simply",
+    "humor_style": "difficulty warning",
+    "when_to_use": [
+      "someone attempting a difficult task",
+      "last-minute studying or setup",
+      "attendance",
+      "campus life",
+      "faculty-safe"
+    ],
+    "example_captions": [
+      "arrived early for once. the professor started counting.",
+      "Me: arrived early for once. Also me when I see attendance: immediately invested.",
+      "Nobody: absolutely nobody. Me when the professor started counting:"
+    ],
+    "tone": "dramatic and knowing"
+  },
+  {
+    "id": "09-03",
+    "template_name": "One Does Not Simply",
+    "humor_style": "difficulty warning",
+    "when_to_use": [
+      "someone attempting a difficult task",
+      "last-minute studying or setup",
+      "the assignment portal",
+      "campus life",
+      "faculty-safe"
+    ],
+    "example_captions": [
+      "opened the submission page. the deadline was actually tonight.",
+      "Me: opened the submission page. Also me when I see the assignment portal: immediately invested.",
+      "Nobody: absolutely nobody. Me when the deadline was actually tonight:"
+    ],
+    "tone": "dramatic and knowing"
+  },
+  {
+    "id": "09-04",
+    "template_name": "One Does Not Simply",
+    "humor_style": "difficulty warning",
+    "when_to_use": [
+      "someone attempting a difficult task",
+      "last-minute studying or setup",
+      "the last slice of pizza",
+      "campus life",
+      "faculty-safe"
+    ],
+    "example_captions": [
+      "said I was not hungry. heard someone say ‘free food’.",
+      "Me: said I was not hungry. Also me when I see the last slice of pizza: immediately invested.",
+      "Nobody: absolutely nobody. Me when heard someone say ‘free food’:"
+    ],
+    "tone": "dramatic and knowing"
+  },
+  {
+    "id": "09-05",
+    "template_name": "One Does Not Simply",
+    "humor_style": "difficulty warning",
+    "when_to_use": [
+      "someone attempting a difficult task",
+      "last-minute studying or setup",
+      "the Wi-Fi symbol",
+      "campus life",
+      "faculty-safe"
+    ],
+    "example_captions": [
+      "planned a focused study session. the lecture video finally loaded.",
+      "Me: planned a focused study session. Also me when I see the Wi-Fi symbol: immediately invested.",
+      "Nobody: absolutely nobody. Me when the lecture video finally loaded:"
+    ],
+    "tone": "dramatic and knowing"
+  },
+  {
+    "id": "10-01",
+    "template_name": "Mocking SpongeBob",
+    "humor_style": "sarcastic repetition",
+    "when_to_use": [
+      "someone making a silly claim",
+      "overconfident excuse",
+      "attendance",
+      "campus life",
+      "faculty-safe"
+    ],
+    "example_captions": [
+      "arrived early for once. the professor started counting.",
+      "Me: arrived early for once. Also me when I see attendance: immediately invested.",
+      "Nobody: absolutely nobody. Me when the professor started counting:"
+    ],
+    "tone": "sassy and playful"
+  },
+  {
+    "id": "10-02",
+    "template_name": "Mocking SpongeBob",
+    "humor_style": "sarcastic repetition",
+    "when_to_use": [
+      "someone making a silly claim",
+      "overconfident excuse",
+      "the assignment portal",
+      "campus life",
+      "faculty-safe"
+    ],
+    "example_captions": [
+      "opened the submission page. the deadline was actually tonight.",
+      "Me: opened the submission page. Also me when I see the assignment portal: immediately invested.",
+      "Nobody: absolutely nobody. Me when the deadline was actually tonight:"
+    ],
+    "tone": "sassy and playful"
+  },
+  {
+    "id": "10-03",
+    "template_name": "Mocking SpongeBob",
+    "humor_style": "sarcastic repetition",
+    "when_to_use": [
+      "someone making a silly claim",
+      "overconfident excuse",
+      "the last slice of pizza",
+      "campus life",
+      "faculty-safe"
+    ],
+    "example_captions": [
+      "said I was not hungry. heard someone say ‘free food’.",
+      "Me: said I was not hungry. Also me when I see the last slice of pizza: immediately invested.",
+      "Nobody: absolutely nobody. Me when heard someone say ‘free food’:"
+    ],
+    "tone": "sassy and playful"
+  },
+  {
+    "id": "10-04",
+    "template_name": "Mocking SpongeBob",
+    "humor_style": "sarcastic repetition",
+    "when_to_use": [
+      "someone making a silly claim",
+      "overconfident excuse",
+      "the Wi-Fi symbol",
+      "campus life",
+      "faculty-safe"
+    ],
+    "example_captions": [
+      "planned a focused study session. the lecture video finally loaded.",
+      "Me: planned a focused study session. Also me when I see the Wi-Fi symbol: immediately invested.",
+      "Nobody: absolutely nobody. Me when the lecture video finally loaded:"
+    ],
+    "tone": "sassy and playful"
+  },
+  {
+    "id": "10-05",
+    "template_name": "Mocking SpongeBob",
+    "humor_style": "sarcastic repetition",
+    "when_to_use": [
+      "someone making a silly claim",
+      "overconfident excuse",
+      "the presentation clicker",
+      "campus life",
+      "faculty-safe"
+    ],
+    "example_captions": [
+      "practiced the first slide. the faculty panel said ‘any questions?’.",
+      "Me: practiced the first slide. Also me when I see the presentation clicker: immediately invested.",
+      "Nobody: absolutely nobody. Me when the faculty panel said ‘any questions?’:"
+    ],
+    "tone": "sassy and playful"
+  },
+  {
+    "id": "11-01",
+    "template_name": "Gru's Plan",
+    "humor_style": "plan derailment",
+    "when_to_use": [
+      "a step-by-step plan goes wrong",
+      "group project or presentation",
+      "the assignment portal",
+      "campus life",
+      "faculty-safe"
+    ],
+    "example_captions": [
+      "opened the submission page. the deadline was actually tonight.",
+      "Me: opened the submission page. Also me when I see the assignment portal: immediately invested.",
+      "Nobody: absolutely nobody. Me when the deadline was actually tonight:"
+    ],
+    "tone": "chaotic and self-aware"
+  },
+  {
+    "id": "11-02",
+    "template_name": "Gru's Plan",
+    "humor_style": "plan derailment",
+    "when_to_use": [
+      "a step-by-step plan goes wrong",
+      "group project or presentation",
+      "the last slice of pizza",
+      "campus life",
+      "faculty-safe"
+    ],
+    "example_captions": [
+      "said I was not hungry. heard someone say ‘free food’.",
+      "Me: said I was not hungry. Also me when I see the last slice of pizza: immediately invested.",
+      "Nobody: absolutely nobody. Me when heard someone say ‘free food’:"
+    ],
+    "tone": "chaotic and self-aware"
+  },
+  {
+    "id": "11-03",
+    "template_name": "Gru's Plan",
+    "humor_style": "plan derailment",
+    "when_to_use": [
+      "a step-by-step plan goes wrong",
+      "group project or presentation",
+      "the Wi-Fi symbol",
+      "campus life",
+      "faculty-safe"
+    ],
+    "example_captions": [
+      "planned a focused study session. the lecture video finally loaded.",
+      "Me: planned a focused study session. Also me when I see the Wi-Fi symbol: immediately invested.",
+      "Nobody: absolutely nobody. Me when the lecture video finally loaded:"
+    ],
+    "tone": "chaotic and self-aware"
+  },
+  {
+    "id": "11-04",
+    "template_name": "Gru's Plan",
+    "humor_style": "plan derailment",
+    "when_to_use": [
+      "a step-by-step plan goes wrong",
+      "group project or presentation",
+      "the presentation clicker",
+      "campus life",
+      "faculty-safe"
+    ],
+    "example_captions": [
+      "practiced the first slide. the faculty panel said ‘any questions?’.",
+      "Me: practiced the first slide. Also me when I see the presentation clicker: immediately invested.",
+      "Nobody: absolutely nobody. Me when the faculty panel said ‘any questions?’:"
+    ],
+    "tone": "chaotic and self-aware"
+  },
+  {
+    "id": "11-05",
+    "template_name": "Gru's Plan",
+    "humor_style": "plan derailment",
+    "when_to_use": [
+      "a step-by-step plan goes wrong",
+      "group project or presentation",
+      "attendance",
+      "campus life",
+      "faculty-safe"
+    ],
+    "example_captions": [
+      "arrived early for once. the professor started counting.",
+      "Me: arrived early for once. Also me when I see attendance: immediately invested.",
+      "Nobody: absolutely nobody. Me when the professor started counting:"
+    ],
+    "tone": "chaotic and self-aware"
+  },
+  {
+    "id": "12-01",
+    "template_name": "Bernie Asking",
+    "humor_style": "polite request",
+    "when_to_use": [
+      "person waiting or asking for help",
+      "attendance, Wi-Fi, or deadline",
+      "the last slice of pizza",
+      "campus life",
+      "faculty-safe"
+    ],
+    "example_captions": [
+      "said I was not hungry. heard someone say ‘free food’.",
+      "Me: said I was not hungry. Also me when I see the last slice of pizza: immediately invested.",
+      "Nobody: absolutely nobody. Me when heard someone say ‘free food’:"
+    ],
+    "tone": "earnest and campus-relatable"
+  },
+  {
+    "id": "12-02",
+    "template_name": "Bernie Asking",
+    "humor_style": "polite request",
+    "when_to_use": [
+      "person waiting or asking for help",
+      "attendance, Wi-Fi, or deadline",
+      "the Wi-Fi symbol",
+      "campus life",
+      "faculty-safe"
+    ],
+    "example_captions": [
+      "planned a focused study session. the lecture video finally loaded.",
+      "Me: planned a focused study session. Also me when I see the Wi-Fi symbol: immediately invested.",
+      "Nobody: absolutely nobody. Me when the lecture video finally loaded:"
+    ],
+    "tone": "earnest and campus-relatable"
+  },
+  {
+    "id": "12-03",
+    "template_name": "Bernie Asking",
+    "humor_style": "polite request",
+    "when_to_use": [
+      "person waiting or asking for help",
+      "attendance, Wi-Fi, or deadline",
+      "the presentation clicker",
+      "campus life",
+      "faculty-safe"
+    ],
+    "example_captions": [
+      "practiced the first slide. the faculty panel said ‘any questions?’.",
+      "Me: practiced the first slide. Also me when I see the presentation clicker: immediately invested.",
+      "Nobody: absolutely nobody. Me when the faculty panel said ‘any questions?’:"
+    ],
+    "tone": "earnest and campus-relatable"
+  },
+  {
+    "id": "12-04",
+    "template_name": "Bernie Asking",
+    "humor_style": "polite request",
+    "when_to_use": [
+      "person waiting or asking for help",
+      "attendance, Wi-Fi, or deadline",
+      "attendance",
+      "campus life",
+      "faculty-safe"
+    ],
+    "example_captions": [
+      "arrived early for once. the professor started counting.",
+      "Me: arrived early for once. Also me when I see attendance: immediately invested.",
+      "Nobody: absolutely nobody. Me when the professor started counting:"
+    ],
+    "tone": "earnest and campus-relatable"
+  },
+  {
+    "id": "12-05",
+    "template_name": "Bernie Asking",
+    "humor_style": "polite request",
+    "when_to_use": [
+      "person waiting or asking for help",
+      "attendance, Wi-Fi, or deadline",
+      "the assignment portal",
+      "campus life",
+      "faculty-safe"
+    ],
+    "example_captions": [
+      "opened the submission page. the deadline was actually tonight.",
+      "Me: opened the submission page. Also me when I see the assignment portal: immediately invested.",
+      "Nobody: absolutely nobody. Me when the deadline was actually tonight:"
+    ],
+    "tone": "earnest and campus-relatable"
+  },
+  {
+    "id": "13-01",
+    "template_name": "Galaxy Brain",
+    "humor_style": "overthinking upgrade",
+    "when_to_use": [
+      "ordinary action with increasingly clever versions",
+      "study or productivity hack",
+      "the Wi-Fi symbol",
+      "campus life",
+      "faculty-safe"
+    ],
+    "example_captions": [
+      "planned a focused study session. the lecture video finally loaded.",
+      "Me: planned a focused study session. Also me when I see the Wi-Fi symbol: immediately invested.",
+      "Nobody: absolutely nobody. Me when the lecture video finally loaded:"
+    ],
+    "tone": "smart and absurd"
+  },
+  {
+    "id": "13-02",
+    "template_name": "Galaxy Brain",
+    "humor_style": "overthinking upgrade",
+    "when_to_use": [
+      "ordinary action with increasingly clever versions",
+      "study or productivity hack",
+      "the presentation clicker",
+      "campus life",
+      "faculty-safe"
+    ],
+    "example_captions": [
+      "practiced the first slide. the faculty panel said ‘any questions?’.",
+      "Me: practiced the first slide. Also me when I see the presentation clicker: immediately invested.",
+      "Nobody: absolutely nobody. Me when the faculty panel said ‘any questions?’:"
+    ],
+    "tone": "smart and absurd"
+  },
+  {
+    "id": "13-03",
+    "template_name": "Galaxy Brain",
+    "humor_style": "overthinking upgrade",
+    "when_to_use": [
+      "ordinary action with increasingly clever versions",
+      "study or productivity hack",
+      "attendance",
+      "campus life",
+      "faculty-safe"
+    ],
+    "example_captions": [
+      "arrived early for once. the professor started counting.",
+      "Me: arrived early for once. Also me when I see attendance: immediately invested.",
+      "Nobody: absolutely nobody. Me when the professor started counting:"
+    ],
+    "tone": "smart and absurd"
+  },
+  {
+    "id": "13-04",
+    "template_name": "Galaxy Brain",
+    "humor_style": "overthinking upgrade",
+    "when_to_use": [
+      "ordinary action with increasingly clever versions",
+      "study or productivity hack",
+      "the assignment portal",
+      "campus life",
+      "faculty-safe"
+    ],
+    "example_captions": [
+      "opened the submission page. the deadline was actually tonight.",
+      "Me: opened the submission page. Also me when I see the assignment portal: immediately invested.",
+      "Nobody: absolutely nobody. Me when the deadline was actually tonight:"
+    ],
+    "tone": "smart and absurd"
+  },
+  {
+    "id": "13-05",
+    "template_name": "Galaxy Brain",
+    "humor_style": "overthinking upgrade",
+    "when_to_use": [
+      "ordinary action with increasingly clever versions",
+      "study or productivity hack",
+      "the last slice of pizza",
+      "campus life",
+      "faculty-safe"
+    ],
+    "example_captions": [
+      "said I was not hungry. heard someone say ‘free food’.",
+      "Me: said I was not hungry. Also me when I see the last slice of pizza: immediately invested.",
+      "Nobody: absolutely nobody. Me when heard someone say ‘free food’:"
+    ],
+    "tone": "smart and absurd"
+  },
+  {
+    "id": "14-01",
+    "template_name": "Leonardo DiCaprio Cheers",
+    "humor_style": "quiet celebration",
+    "when_to_use": [
+      "person smiling or holding a drink",
+      "surviving a small social victory",
+      "the presentation clicker",
+      "campus life",
+      "faculty-safe"
+    ],
+    "example_captions": [
+      "practiced the first slide. the faculty panel said ‘any questions?’.",
+      "Me: practiced the first slide. Also me when I see the presentation clicker: immediately invested.",
+      "Nobody: absolutely nobody. Me when the faculty panel said ‘any questions?’:"
+    ],
+    "tone": "cool and amused"
+  },
+  {
+    "id": "14-02",
+    "template_name": "Leonardo DiCaprio Cheers",
+    "humor_style": "quiet celebration",
+    "when_to_use": [
+      "person smiling or holding a drink",
+      "surviving a small social victory",
+      "attendance",
+      "campus life",
+      "faculty-safe"
+    ],
+    "example_captions": [
+      "arrived early for once. the professor started counting.",
+      "Me: arrived early for once. Also me when I see attendance: immediately invested.",
+      "Nobody: absolutely nobody. Me when the professor started counting:"
+    ],
+    "tone": "cool and amused"
+  },
+  {
+    "id": "14-03",
+    "template_name": "Leonardo DiCaprio Cheers",
+    "humor_style": "quiet celebration",
+    "when_to_use": [
+      "person smiling or holding a drink",
+      "surviving a small social victory",
+      "the assignment portal",
+      "campus life",
+      "faculty-safe"
+    ],
+    "example_captions": [
+      "opened the submission page. the deadline was actually tonight.",
+      "Me: opened the submission page. Also me when I see the assignment portal: immediately invested.",
+      "Nobody: absolutely nobody. Me when the deadline was actually tonight:"
+    ],
+    "tone": "cool and amused"
+  },
+  {
+    "id": "14-04",
+    "template_name": "Leonardo DiCaprio Cheers",
+    "humor_style": "quiet celebration",
+    "when_to_use": [
+      "person smiling or holding a drink",
+      "surviving a small social victory",
+      "the last slice of pizza",
+      "campus life",
+      "faculty-safe"
+    ],
+    "example_captions": [
+      "said I was not hungry. heard someone say ‘free food’.",
+      "Me: said I was not hungry. Also me when I see the last slice of pizza: immediately invested.",
+      "Nobody: absolutely nobody. Me when heard someone say ‘free food’:"
+    ],
+    "tone": "cool and amused"
+  },
+  {
+    "id": "14-05",
+    "template_name": "Leonardo DiCaprio Cheers",
+    "humor_style": "quiet celebration",
+    "when_to_use": [
+      "person smiling or holding a drink",
+      "surviving a small social victory",
+      "the Wi-Fi symbol",
+      "campus life",
+      "faculty-safe"
+    ],
+    "example_captions": [
+      "planned a focused study session. the lecture video finally loaded.",
+      "Me: planned a focused study session. Also me when I see the Wi-Fi symbol: immediately invested.",
+      "Nobody: absolutely nobody. Me when the lecture video finally loaded:"
+    ],
+    "tone": "cool and amused"
+  },
+  {
+    "id": "15-01",
+    "template_name": "Is This a Pigeon?",
+    "humor_style": "confident mislabeling",
+    "when_to_use": [
+      "person looking at an object",
+      "confusing a simple thing for something else",
+      "attendance",
+      "campus life",
+      "faculty-safe"
+    ],
+    "example_captions": [
+      "arrived early for once. the professor started counting.",
+      "Me: arrived early for once. Also me when I see attendance: immediately invested.",
+      "Nobody: absolutely nobody. Me when the professor started counting:"
+    ],
+    "tone": "confused and innocent"
+  },
+  {
+    "id": "15-02",
+    "template_name": "Is This a Pigeon?",
+    "humor_style": "confident mislabeling",
+    "when_to_use": [
+      "person looking at an object",
+      "confusing a simple thing for something else",
+      "the assignment portal",
+      "campus life",
+      "faculty-safe"
+    ],
+    "example_captions": [
+      "opened the submission page. the deadline was actually tonight.",
+      "Me: opened the submission page. Also me when I see the assignment portal: immediately invested.",
+      "Nobody: absolutely nobody. Me when the deadline was actually tonight:"
+    ],
+    "tone": "confused and innocent"
+  },
+  {
+    "id": "15-03",
+    "template_name": "Is This a Pigeon?",
+    "humor_style": "confident mislabeling",
+    "when_to_use": [
+      "person looking at an object",
+      "confusing a simple thing for something else",
+      "the last slice of pizza",
+      "campus life",
+      "faculty-safe"
+    ],
+    "example_captions": [
+      "said I was not hungry. heard someone say ‘free food’.",
+      "Me: said I was not hungry. Also me when I see the last slice of pizza: immediately invested.",
+      "Nobody: absolutely nobody. Me when heard someone say ‘free food’:"
+    ],
+    "tone": "confused and innocent"
+  },
+  {
+    "id": "15-04",
+    "template_name": "Is This a Pigeon?",
+    "humor_style": "confident mislabeling",
+    "when_to_use": [
+      "person looking at an object",
+      "confusing a simple thing for something else",
+      "the Wi-Fi symbol",
+      "campus life",
+      "faculty-safe"
+    ],
+    "example_captions": [
+      "planned a focused study session. the lecture video finally loaded.",
+      "Me: planned a focused study session. Also me when I see the Wi-Fi symbol: immediately invested.",
+      "Nobody: absolutely nobody. Me when the lecture video finally loaded:"
+    ],
+    "tone": "confused and innocent"
+  },
+  {
+    "id": "15-05",
+    "template_name": "Is This a Pigeon?",
+    "humor_style": "confident mislabeling",
+    "when_to_use": [
+      "person looking at an object",
+      "confusing a simple thing for something else",
+      "the presentation clicker",
+      "campus life",
+      "faculty-safe"
+    ],
+    "example_captions": [
+      "practiced the first slide. the faculty panel said ‘any questions?’.",
+      "Me: practiced the first slide. Also me when I see the presentation clicker: immediately invested.",
+      "Nobody: absolutely nobody. Me when the faculty panel said ‘any questions?’:"
+    ],
+    "tone": "confused and innocent"
+  },
+  {
+    "id": "16-01",
+    "template_name": "Disaster Girl",
+    "humor_style": "knowing mischief",
+    "when_to_use": [
+      "childlike smile near a mess",
+      "someone enjoying a harmless disaster",
+      "the assignment portal",
+      "campus life",
+      "faculty-safe"
+    ],
+    "example_captions": [
+      "opened the submission page. the deadline was actually tonight.",
+      "Me: opened the submission page. Also me when I see the assignment portal: immediately invested.",
+      "Nobody: absolutely nobody. Me when the deadline was actually tonight:"
+    ],
+    "tone": "mischievous and PG-13"
+  },
+  {
+    "id": "16-02",
+    "template_name": "Disaster Girl",
+    "humor_style": "knowing mischief",
+    "when_to_use": [
+      "childlike smile near a mess",
+      "someone enjoying a harmless disaster",
+      "the last slice of pizza",
+      "campus life",
+      "faculty-safe"
+    ],
+    "example_captions": [
+      "said I was not hungry. heard someone say ‘free food’.",
+      "Me: said I was not hungry. Also me when I see the last slice of pizza: immediately invested.",
+      "Nobody: absolutely nobody. Me when heard someone say ‘free food’:"
+    ],
+    "tone": "mischievous and PG-13"
+  },
+  {
+    "id": "16-03",
+    "template_name": "Disaster Girl",
+    "humor_style": "knowing mischief",
+    "when_to_use": [
+      "childlike smile near a mess",
+      "someone enjoying a harmless disaster",
+      "the Wi-Fi symbol",
+      "campus life",
+      "faculty-safe"
+    ],
+    "example_captions": [
+      "planned a focused study session. the lecture video finally loaded.",
+      "Me: planned a focused study session. Also me when I see the Wi-Fi symbol: immediately invested.",
+      "Nobody: absolutely nobody. Me when the lecture video finally loaded:"
+    ],
+    "tone": "mischievous and PG-13"
+  },
+  {
+    "id": "16-04",
+    "template_name": "Disaster Girl",
+    "humor_style": "knowing mischief",
+    "when_to_use": [
+      "childlike smile near a mess",
+      "someone enjoying a harmless disaster",
+      "the presentation clicker",
+      "campus life",
+      "faculty-safe"
+    ],
+    "example_captions": [
+      "practiced the first slide. the faculty panel said ‘any questions?’.",
+      "Me: practiced the first slide. Also me when I see the presentation clicker: immediately invested.",
+      "Nobody: absolutely nobody. Me when the faculty panel said ‘any questions?’:"
+    ],
+    "tone": "mischievous and PG-13"
+  },
+  {
+    "id": "16-05",
+    "template_name": "Disaster Girl",
+    "humor_style": "knowing mischief",
+    "when_to_use": [
+      "childlike smile near a mess",
+      "someone enjoying a harmless disaster",
+      "attendance",
+      "campus life",
+      "faculty-safe"
+    ],
+    "example_captions": [
+      "arrived early for once. the professor started counting.",
+      "Me: arrived early for once. Also me when I see attendance: immediately invested.",
+      "Nobody: absolutely nobody. Me when the professor started counting:"
+    ],
+    "tone": "mischievous and PG-13"
+  },
+  {
+    "id": "17-01",
+    "template_name": "Running Away Balloon",
+    "humor_style": "abandoning responsibility",
+    "when_to_use": [
+      "person or object moving away",
+      "escaping chores, class, or a deadline",
+      "the last slice of pizza",
+      "campus life",
+      "faculty-safe"
+    ],
+    "example_captions": [
+      "said I was not hungry. heard someone say ‘free food’.",
+      "Me: said I was not hungry. Also me when I see the last slice of pizza: immediately invested.",
+      "Nobody: absolutely nobody. Me when heard someone say ‘free food’:"
+    ],
+    "tone": "light and escapist"
+  },
+  {
+    "id": "17-02",
+    "template_name": "Running Away Balloon",
+    "humor_style": "abandoning responsibility",
+    "when_to_use": [
+      "person or object moving away",
+      "escaping chores, class, or a deadline",
+      "the Wi-Fi symbol",
+      "campus life",
+      "faculty-safe"
+    ],
+    "example_captions": [
+      "planned a focused study session. the lecture video finally loaded.",
+      "Me: planned a focused study session. Also me when I see the Wi-Fi symbol: immediately invested.",
+      "Nobody: absolutely nobody. Me when the lecture video finally loaded:"
+    ],
+    "tone": "light and escapist"
+  },
+  {
+    "id": "17-03",
+    "template_name": "Running Away Balloon",
+    "humor_style": "abandoning responsibility",
+    "when_to_use": [
+      "person or object moving away",
+      "escaping chores, class, or a deadline",
+      "the presentation clicker",
+      "campus life",
+      "faculty-safe"
+    ],
+    "example_captions": [
+      "practiced the first slide. the faculty panel said ‘any questions?’.",
+      "Me: practiced the first slide. Also me when I see the presentation clicker: immediately invested.",
+      "Nobody: absolutely nobody. Me when the faculty panel said ‘any questions?’:"
+    ],
+    "tone": "light and escapist"
+  },
+  {
+    "id": "17-04",
+    "template_name": "Running Away Balloon",
+    "humor_style": "abandoning responsibility",
+    "when_to_use": [
+      "person or object moving away",
+      "escaping chores, class, or a deadline",
+      "attendance",
+      "campus life",
+      "faculty-safe"
+    ],
+    "example_captions": [
+      "arrived early for once. the professor started counting.",
+      "Me: arrived early for once. Also me when I see attendance: immediately invested.",
+      "Nobody: absolutely nobody. Me when the professor started counting:"
+    ],
+    "tone": "light and escapist"
+  },
+  {
+    "id": "17-05",
+    "template_name": "Running Away Balloon",
+    "humor_style": "abandoning responsibility",
+    "when_to_use": [
+      "person or object moving away",
+      "escaping chores, class, or a deadline",
+      "the assignment portal",
+      "campus life",
+      "faculty-safe"
+    ],
+    "example_captions": [
+      "opened the submission page. the deadline was actually tonight.",
+      "Me: opened the submission page. Also me when I see the assignment portal: immediately invested.",
+      "Nobody: absolutely nobody. Me when the deadline was actually tonight:"
+    ],
+    "tone": "light and escapist"
+  },
+  {
+    "id": "18-01",
+    "template_name": "Waiting Skeleton",
+    "humor_style": "long wait",
+    "when_to_use": [
+      "person waiting or sitting still",
+      "slow Wi-Fi, results, or a reply",
+      "the Wi-Fi symbol",
+      "campus life",
+      "faculty-safe"
+    ],
+    "example_captions": [
+      "planned a focused study session. the lecture video finally loaded.",
+      "Me: planned a focused study session. Also me when I see the Wi-Fi symbol: immediately invested.",
+      "Nobody: absolutely nobody. Me when the lecture video finally loaded:"
+    ],
+    "tone": "patiently dramatic"
+  },
+  {
+    "id": "18-02",
+    "template_name": "Waiting Skeleton",
+    "humor_style": "long wait",
+    "when_to_use": [
+      "person waiting or sitting still",
+      "slow Wi-Fi, results, or a reply",
+      "the presentation clicker",
+      "campus life",
+      "faculty-safe"
+    ],
+    "example_captions": [
+      "practiced the first slide. the faculty panel said ‘any questions?’.",
+      "Me: practiced the first slide. Also me when I see the presentation clicker: immediately invested.",
+      "Nobody: absolutely nobody. Me when the faculty panel said ‘any questions?’:"
+    ],
+    "tone": "patiently dramatic"
+  },
+  {
+    "id": "18-03",
+    "template_name": "Waiting Skeleton",
+    "humor_style": "long wait",
+    "when_to_use": [
+      "person waiting or sitting still",
+      "slow Wi-Fi, results, or a reply",
+      "attendance",
+      "campus life",
+      "faculty-safe"
+    ],
+    "example_captions": [
+      "arrived early for once. the professor started counting.",
+      "Me: arrived early for once. Also me when I see attendance: immediately invested.",
+      "Nobody: absolutely nobody. Me when the professor started counting:"
+    ],
+    "tone": "patiently dramatic"
+  },
+  {
+    "id": "18-04",
+    "template_name": "Waiting Skeleton",
+    "humor_style": "long wait",
+    "when_to_use": [
+      "person waiting or sitting still",
+      "slow Wi-Fi, results, or a reply",
+      "the assignment portal",
+      "campus life",
+      "faculty-safe"
+    ],
+    "example_captions": [
+      "opened the submission page. the deadline was actually tonight.",
+      "Me: opened the submission page. Also me when I see the assignment portal: immediately invested.",
+      "Nobody: absolutely nobody. Me when the deadline was actually tonight:"
+    ],
+    "tone": "patiently dramatic"
+  },
+  {
+    "id": "18-05",
+    "template_name": "Waiting Skeleton",
+    "humor_style": "long wait",
+    "when_to_use": [
+      "person waiting or sitting still",
+      "slow Wi-Fi, results, or a reply",
+      "the last slice of pizza",
+      "campus life",
+      "faculty-safe"
+    ],
+    "example_captions": [
+      "said I was not hungry. heard someone say ‘free food’.",
+      "Me: said I was not hungry. Also me when I see the last slice of pizza: immediately invested.",
+      "Nobody: absolutely nobody. Me when heard someone say ‘free food’:"
+    ],
+    "tone": "patiently dramatic"
+  },
+  {
+    "id": "19-01",
+    "template_name": "Boardroom Meeting",
+    "humor_style": "bad idea rejection",
+    "when_to_use": [
+      "people around a table",
+      "team discussion or group project",
+      "the presentation clicker",
+      "campus life",
+      "faculty-safe"
+    ],
+    "example_captions": [
+      "practiced the first slide. the faculty panel said ‘any questions?’.",
+      "Me: practiced the first slide. Also me when I see the presentation clicker: immediately invested.",
+      "Nobody: absolutely nobody. Me when the faculty panel said ‘any questions?’:"
+    ],
+    "tone": "workplace satire"
+  },
+  {
+    "id": "19-02",
+    "template_name": "Boardroom Meeting",
+    "humor_style": "bad idea rejection",
+    "when_to_use": [
+      "people around a table",
+      "team discussion or group project",
+      "attendance",
+      "campus life",
+      "faculty-safe"
+    ],
+    "example_captions": [
+      "arrived early for once. the professor started counting.",
+      "Me: arrived early for once. Also me when I see attendance: immediately invested.",
+      "Nobody: absolutely nobody. Me when the professor started counting:"
+    ],
+    "tone": "workplace satire"
+  },
+  {
+    "id": "19-03",
+    "template_name": "Boardroom Meeting",
+    "humor_style": "bad idea rejection",
+    "when_to_use": [
+      "people around a table",
+      "team discussion or group project",
+      "the assignment portal",
+      "campus life",
+      "faculty-safe"
+    ],
+    "example_captions": [
+      "opened the submission page. the deadline was actually tonight.",
+      "Me: opened the submission page. Also me when I see the assignment portal: immediately invested.",
+      "Nobody: absolutely nobody. Me when the deadline was actually tonight:"
+    ],
+    "tone": "workplace satire"
+  },
+  {
+    "id": "19-04",
+    "template_name": "Boardroom Meeting",
+    "humor_style": "bad idea rejection",
+    "when_to_use": [
+      "people around a table",
+      "team discussion or group project",
+      "the last slice of pizza",
+      "campus life",
+      "faculty-safe"
+    ],
+    "example_captions": [
+      "said I was not hungry. heard someone say ‘free food’.",
+      "Me: said I was not hungry. Also me when I see the last slice of pizza: immediately invested.",
+      "Nobody: absolutely nobody. Me when heard someone say ‘free food’:"
+    ],
+    "tone": "workplace satire"
+  },
+  {
+    "id": "19-05",
+    "template_name": "Boardroom Meeting",
+    "humor_style": "bad idea rejection",
+    "when_to_use": [
+      "people around a table",
+      "team discussion or group project",
+      "the Wi-Fi symbol",
+      "campus life",
+      "faculty-safe"
+    ],
+    "example_captions": [
+      "planned a focused study session. the lecture video finally loaded.",
+      "Me: planned a focused study session. Also me when I see the Wi-Fi symbol: immediately invested.",
+      "Nobody: absolutely nobody. Me when the lecture video finally loaded:"
+    ],
+    "tone": "workplace satire"
+  },
+  {
+    "id": "20-01",
+    "template_name": "Always Has Been",
+    "humor_style": "revelation",
+    "when_to_use": [
+      "two people looking at a scene",
+      "realizing a relatable truth",
+      "attendance",
+      "campus life",
+      "faculty-safe"
+    ],
+    "example_captions": [
+      "arrived early for once. the professor started counting.",
+      "Me: arrived early for once. Also me when I see attendance: immediately invested.",
+      "Nobody: absolutely nobody. Me when the professor started counting:"
+    ],
+    "tone": "cosmic and deadpan"
+  },
+  {
+    "id": "20-02",
+    "template_name": "Always Has Been",
+    "humor_style": "revelation",
+    "when_to_use": [
+      "two people looking at a scene",
+      "realizing a relatable truth",
+      "the assignment portal",
+      "campus life",
+      "faculty-safe"
+    ],
+    "example_captions": [
+      "opened the submission page. the deadline was actually tonight.",
+      "Me: opened the submission page. Also me when I see the assignment portal: immediately invested.",
+      "Nobody: absolutely nobody. Me when the deadline was actually tonight:"
+    ],
+    "tone": "cosmic and deadpan"
+  },
+  {
+    "id": "20-03",
+    "template_name": "Always Has Been",
+    "humor_style": "revelation",
+    "when_to_use": [
+      "two people looking at a scene",
+      "realizing a relatable truth",
+      "the last slice of pizza",
+      "campus life",
+      "faculty-safe"
+    ],
+    "example_captions": [
+      "said I was not hungry. heard someone say ‘free food’.",
+      "Me: said I was not hungry. Also me when I see the last slice of pizza: immediately invested.",
+      "Nobody: absolutely nobody. Me when heard someone say ‘free food’:"
+    ],
+    "tone": "cosmic and deadpan"
+  },
+  {
+    "id": "20-04",
+    "template_name": "Always Has Been",
+    "humor_style": "revelation",
+    "when_to_use": [
+      "two people looking at a scene",
+      "realizing a relatable truth",
+      "the Wi-Fi symbol",
+      "campus life",
+      "faculty-safe"
+    ],
+    "example_captions": [
+      "planned a focused study session. the lecture video finally loaded.",
+      "Me: planned a focused study session. Also me when I see the Wi-Fi symbol: immediately invested.",
+      "Nobody: absolutely nobody. Me when the lecture video finally loaded:"
+    ],
+    "tone": "cosmic and deadpan"
+  },
+  {
+    "id": "20-05",
+    "template_name": "Always Has Been",
+    "humor_style": "revelation",
+    "when_to_use": [
+      "two people looking at a scene",
+      "realizing a relatable truth",
+      "the presentation clicker",
+      "campus life",
+      "faculty-safe"
+    ],
+    "example_captions": [
+      "practiced the first slide. the faculty panel said ‘any questions?’.",
+      "Me: practiced the first slide. Also me when I see the presentation clicker: immediately invested.",
+      "Nobody: absolutely nobody. Me when the faculty panel said ‘any questions?’:"
+    ],
+    "tone": "cosmic and deadpan"
+  }
+]
