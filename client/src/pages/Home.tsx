@@ -128,6 +128,37 @@ export default function Home() {
     setPreviewUrl(URL.createObjectURL(nextFile));
   };
 
+  const buildLocalCaptions = (name: string, width: number, height: number): Caption[] => {
+    const cleanName = name.replace(/\.[^.]+$/, "").replace(/[_-]+/g, " ").trim();
+    const subject = cleanName && cleanName.length < 55 ? cleanName : "THIS PHOTO";
+    const shape = width > height * 1.2 ? "WIDE SHOT" : height > width * 1.2 ? "VERTICAL ARC" : "SQUARE ENERGY";
+    const seeds: Caption[] = [
+      { label: "Short", top: "ME: I HAVE A PLAN", bottom: `${shape}: ${subject.toUpperCase()}` },
+      { label: "Relatable", top: "NOBODY: ABSOLUTELY NOBODY:", bottom: `ME WHEN ${subject.toUpperCase()} HAPPENS` },
+      { label: "Over-the-top", top: "THE DEADLINE WAS YESTERDAY", bottom: `${subject.toUpperCase()} HAS ENTERED FINAL-BOSS MODE` },
+    ];
+    return seeds.map(caption => ({
+      ...caption,
+      top: caption.top.slice(0, 88),
+      bottom: caption.bottom.slice(0, 88),
+    }));
+  };
+
+  const buildLocalResult = (imageUrl: string, name: string, width: number, height: number): CaptionResult => {
+    const captions = buildLocalCaptions(name, width, height);
+    return {
+      description: `No API key needed. Local browser mode loaded “${name}” (${width}×${height}px) and created captions from the image file and layout signals.`,
+      retrieved: [
+        { template_name: "Deadline Energy", humor_style: "relatable", when_to_use: ["deadlines", "student life"], example_captions: ["THE DEADLINE WAS YESTERDAY"], tone: "campus-safe", score: 0.96 },
+        { template_name: "Nobody / Me", humor_style: "reaction", when_to_use: ["awkward moments", "everyday chaos"], example_captions: ["Nobody: / Me:"], tone: "playful", score: 0.91 },
+        { template_name: "Final Boss", humor_style: "over-the-top", when_to_use: ["dramatic moments", "last-minute work"], example_captions: ["FINAL-BOSS MODE"], tone: "dramatic", score: 0.87 },
+      ],
+      captions,
+      memeImageUrl: imageUrl,
+      usedFallback: true,
+    };
+  };
+
   const generate = async () => {
     if (!file) {
       setError("Add an image first — the punchline needs a setup.");
@@ -136,12 +167,14 @@ export default function Home() {
     setIsGenerating(true);
     setError("");
     try {
-      const body = new FormData();
-      body.append("image", file);
-      const response = await fetch("/api/caption", { method: "POST", body });
-      const payload = (await response.json()) as CaptionResult & { error?: string };
-      if (!response.ok) throw new Error(payload.error || "Caption generation failed.");
-      setResult(payload);
+      const imageUrl = previewUrl;
+      const image = new Image();
+      image.src = imageUrl;
+      await new Promise<void>((resolve, reject) => {
+        image.onload = () => resolve();
+        image.onerror = () => reject(new Error("Could not read that image in the browser."));
+      });
+      setResult(buildLocalResult(imageUrl, file.name, image.naturalWidth, image.naturalHeight));
       setActiveCaption(0);
     } catch (generationError) {
       setError(generationError instanceof Error ? generationError.message : "Something went wrong. Try again.");
@@ -154,21 +187,15 @@ export default function Home() {
     if (!result) return;
     setIsRegenerating(true);
     setError("");
-    try {
-      const response = await fetch("/api/regenerate", {
-        method: "POST",
-        headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({ description: result.description, retrieved: result.retrieved }),
-      });
-      const payload = (await response.json()) as { captions?: Caption[]; usedFallback?: boolean; error?: string };
-      if (!response.ok || !payload.captions) throw new Error(payload.error || "Remix failed.");
-      setResult(current => current ? { ...current, captions: payload.captions!, usedFallback: payload.usedFallback } : current);
-      setActiveCaption(0);
-    } catch (regenerationError) {
-      setError(regenerationError instanceof Error ? regenerationError.message : "Could not remix the captions.");
-    } finally {
-      setIsRegenerating(false);
-    }
+    await new Promise(resolve => setTimeout(resolve, 250));
+    const next = result.captions.map((caption, index) => ({
+      ...caption,
+      top: index === 0 ? "ME: THIS WAS SUPPOSED TO BE QUICK" : index === 1 ? "NOBODY: LET'S KEEP IT SIMPLE" : "SOMEHOW THIS BECAME A FULL-TIME JOB",
+      bottom: index === 0 ? "THE PHOTO: ABSOLUTELY NOT" : index === 1 ? "THE GROUP CHAT: 47 NEW MESSAGES" : "THE SIDE QUEST HAS BECOME THE MAIN QUEST",
+    }));
+    setResult(current => current ? { ...current, captions: next } : current);
+    setActiveCaption(0);
+    setIsRegenerating(false);
   };
 
   const downloadMeme = () => {
@@ -198,7 +225,7 @@ export default function Home() {
         <div className="topbar-meta">
           <span className="live-pill"><i /> live demo</span>
           <span className="meta-separator">·</span>
-          <span>RAG-powered captioning</span>
+          <span>zero-key local captioning</span>
         </div>
       </header>
 
@@ -206,7 +233,7 @@ export default function Home() {
         <div className="hero-copy">
           <p className="eyebrow"><span className="eyebrow-line" /> upload → retrieve → laugh</p>
           <h1>Make the photo<br /><em>the punchline.</em></h1>
-          <p className="hero-subtitle">A meme co-pilot that sees what’s in your image, finds the right joke pattern, and writes a caption that actually lands.</p>
+          <p className="hero-subtitle">A zero-key meme co-pilot that runs in your browser, reads the image dimensions, and creates captions without a paid AI service.</p>
         </div>
         <div className="hero-note">
           <span className="note-index">01</span>
@@ -254,7 +281,7 @@ export default function Home() {
           <div className="how-it-works">
             <div className="section-label"><span>02</span> what’s happening</div>
             <div className="pipeline-card">
-              {["Vision reads the scene", "RAG finds the joke pattern", "Three tones, one good laugh"].map((step, index) => (
+              {["Browser reads the image", "Local joke patterns", "Three tones, no API key"].map((step, index) => (
                 <div className="pipeline-step" key={step}>
                   <span className={`pipeline-number ${result || isGenerating ? "is-active" : ""}`}>{index + 1}</span>
                   <span>{step}</span>
@@ -300,13 +327,13 @@ export default function Home() {
               <button className="download-button" type="button" onClick={downloadMeme}><Download size={17} /> download meme <span>PNG</span></button>
             </>
           ) : (
-            <div className="tip-line"><Sparkles size={14} /> Pro tip: the more visually specific the image, the better the joke.</div>
+            <div className="tip-line"><Sparkles size={14} /> Zero-key mode: your image stays in this browser session; no API request is required.</div>
           )}
         </div>
       </section>
 
       <section className="insight-strip">
-        <div className="insight-heading"><span className="section-label"><span>04</span> retrieved inspiration</span><span className="rag-status"><i /> local vector store · 100 entries</span></div>
+        <div className="insight-heading"><span className="section-label"><span>04</span> retrieved inspiration</span><span className="rag-status"><i /> local joke library · no API</span></div>
         <div className="insight-content">
           {result ? (
             <>
@@ -314,7 +341,7 @@ export default function Home() {
               <div className="retrieval-grid">{result.retrieved.slice(0, 3).map((item, index) => <div className="retrieval-card" key={`${item.template_name}-${index}`}><div><strong>{item.template_name}</strong><span>{item.humor_style}</span></div><em>{Math.round(item.score * 100)}% match</em></div>)}</div>
             </>
           ) : (
-            <div className="empty-insight"><span>RAG context will show up here after generation.</span><span className="context-tags"><b>campus life</b><b>deadline humor</b><b>faculty-safe</b></span></div>
+            <div className="empty-insight"><span>Local joke context will show up here after generation.</span><span className="context-tags"><b>campus life</b><b>deadline humor</b><b>faculty-safe</b></span></div>
           )}
         </div>
       </section>
