@@ -1,53 +1,41 @@
-# Meme Caption Studio
+# KEKE_MEME_CAPTION
 
-A small full-stack meme caption generator built with React, Vite, TypeScript and Express.
+A zero-key meme caption studio built with React, Vite and TypeScript.
 
-## What it does
+## No API key required
 
-- Uploads a JPG, PNG or WEBP image.
-- Uses a vision model to describe the visible scene.
-- Retrieves related meme patterns from a local corpus.
-- Generates three caption styles: Short, Relatable and Over-the-top.
-- Renders the selected caption onto the image and lets you download it.
+The GitHub Pages version runs entirely in the browser. It does **not** require `OPENAI_API_KEY`, Gemini, or another paid AI credential.
 
-## Stack
+The live demo uses a local, deterministic caption engine based on the uploaded image's browser-readable metadata (filename and dimensions). The meme rendering and download also happen in the browser, so the uploaded image is not sent to an app server.
 
-- React + Vite + TypeScript
-- Express + Multer
-- OpenAI-compatible vision/chat API
-- Local RAG-style retrieval with hashed text vectors
-- Tailwind CSS
+> Note: this zero-key mode is intentionally offline/local-first. It does not provide cloud vision-model understanding. If you later want true AI vision, you can add a provider key and re-enable the Express API in `server/`.
+
+## Live demo
+
+https://keke2204.github.io/KEKE_MEME_CAPTION/
 
 ## Run locally
 
 ```bash
-pnpm install
+npm install
+npm run dev
 ```
 
-Copy `.env.example` to `.env` and add your API key:
-
-```env
-OPENAI_API_KEY=your_api_key_here
-```
-
-Then:
+For the static GitHub Pages build:
 
 ```bash
-pnpm dev
+npm run build
 ```
 
-Open `http://localhost:3000`.
+The build output is `dist/public`.
 
-Without an API key, the app still runs with a simple local fallback so the interface can be tested.
+## Stack
 
-## Project structure
-
-```text
-client/       React frontend
-server/       Express API, caption generation and retrieval
-data/         Meme retrieval corpus
-scripts/      Corpus utilities
-```
+- React + Vite + TypeScript
+- Browser Canvas for meme rendering
+- Local caption generation with no API key
+- Express server retained for optional future AI-provider mode
+- GitHub Actions + GitHub Pages deployment
 
 ## License
 
